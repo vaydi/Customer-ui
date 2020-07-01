@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CustomersList defaultProp functions runs defaultProps.requestCustomerData() 1`] = `undefined`;
+
+exports[`CustomersList with data renders correctly 1`] = `
+<div>
+  <h1>
+    List Customers 
+  </h1>
+</div>
+`;
+
+exports[`CustomersList without data renders correctly 1`] = `
+<div>
+  <h1>
+    List Customers 
+  </h1>
+</div>
+`;
